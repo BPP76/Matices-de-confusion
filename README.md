@@ -26,7 +26,7 @@ este enlace: (https://colab.research.google.com/drive/16Ojp_N4inGNKCWxG5lSFm9RhT
    completo.
 
 ## Estructura del repositorio
-
+```
 matices-de-confusion/
 │
 ├── notebook_23f_colab.ipynb   # Notebook principal
@@ -43,6 +43,9 @@ matices-de-confusion/
 │   └── models/                # Modelos entrenados serializados
 │
 └── docs/                      # Informe y documentación
+
+...
+```
 
 ## Dataset
 
