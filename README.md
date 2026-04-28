@@ -56,8 +56,9 @@ https://www.rtve.es/noticias/23f-desclasificados/buscador-23f/
 
 Para cualquier duda sobre el repositorio, contactar con el equipo a través de: 
 
+```
 Cristina Cerezo Ortíguez <ccerezoorti@alumni.unav.es>,
 Daniel Fuentes <dfuentesvaz@alumni.unav.es>,
 Javier Penelas Rubio <jpenelasrub@alumni.unav.es>,
 Begoña Pereiro Palomares <bpereiropal@alumni.unav.es>
-
+```
